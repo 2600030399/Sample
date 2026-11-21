@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+     background-color:#2e5bb6;
+     height:125px;
+     display: flex;
+     align-items: centre;
+      
+}
+.brand-section{
+    display:flex;
+    align-items:centre;
+    gap:15px;
+}
+.logo{
+    color: #50b5ff;
+    font-size:80px;
+    font-weight:bold;
+    font-family:'Arial', sans-serif;
+
+}
+.brand-name {
+    color:#64baff;
+font-size:55px;
+font-family: 'Arial',sans-serif;
+}
+.status-dot{
+    display: inline-block;
+    background-color:#16e9a1;
+    width:15px;
+    height:15px;
+    border-radius:50%;
+}
+.dispatch-btn{
+    
+}

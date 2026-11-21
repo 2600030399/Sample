@@ -1,0 +1,25 @@
+.card{
+}
+.menu{
+    display:grid;
+    grid-template-columns
+
+    grid-template-columns:200px 200px 200px;
+    gap: 10px;
+}
+img:hover{
+    transform:scale(1.5);
+    transition:transform 0.3s ease;
+}
+#btn{
+    background-color:gray;
+    cursor:pointer;
+}
+
+#btn:hover
+    background-color :red;
+    transform:scale((1.5);
+    transition:transform color 0.3s ease;
+
+}
+.
